@@ -10,7 +10,13 @@ The project encompasses:
 
 Technologies used include Python, Pandas, PostgreSQL, and SQL. The project also emphasizes collaboration and teamwork, as it is designed to be completed with a partner.
 
-## Table of Contents Optional)
+## Table of Contents
+1. [Description](#description)
+2. [Installation Instructions](#installation-instructions)
+3. [Usage](#usage)
+4. [Credits](#credits)
+
+
 ## Installation Instructions - List the steps to install your project.
 ## Usage - Provide instructions on how to use the application. Include screenshots as needed.
 ## Credits - List your collaborators, and third-party assets.
