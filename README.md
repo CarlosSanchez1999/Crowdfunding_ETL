@@ -26,13 +26,17 @@ To set up and run this project on your local environment:
    cd Crowdfunding_ETL
    
 2.Ensure you have PostgreSQL installed and running on your system. Create a new database named crowdfunding_db.
+
 3.Download the required data files (crowdfunding.xlsx and contacts.xlsx) located in the Resources folder.
+
 4.Open the Jupyter notebook named ETL_Mini_Project_IVazquez_CSanchez.ipynb
+
 5.Follow the instructions in the notebook to:
 - Extract data from the provided Excel files.
 - Transform the data into structured DataFrames (`category`, `subcategory`, `campaign`, and `contacts`).
 - Export the transformed data as CSV files.
 - Use the provided schema file (`crowdfunding_db_schema.sql`) to create the database schema in PostgreSQL.
+  
 6.Import the generated CSV files into the corresponding tables in your PostgreSQL database.
 
 ## Usage - Provide instructions on how to use the application. Include screenshots as needed.
